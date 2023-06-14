@@ -18,7 +18,7 @@ By segmenting customers, the marketing or sales team can take specific approache
 
 The application of Machine Learning techniques in this process makes it possible to improve customer segmentation, identifying more complex patterns and relationships between attributes. Machine learning algorithms can help identify additional segments or improve segmentation accuracy based on available data.
 
-In summary, the objective of this project is to use RFM Analysis and Machine Learning techniques to segment and group customers based on their similarity, in order to personalize the shopping experience and improve marketing and sales strategies. By better understanding customer behavior, you can optimize business performance, drive sales, and build longer-lasting customer relationships.
+In summary, the objective of this project is to use RFM Analysis and Machine Learning techniques to segment and group customers based on their similarity, in order to personalize the shopping experience and improve marketing and sales strategies. By better understanding customer behavior, you can optimize business performance, drive sales, and build longer-lasting customer relationships. As a result it is possible to deliver a graph and table to the marketing department. Now it is possible to identify five groups of customers by similarity.
 
 # DATA SOURCERS
 

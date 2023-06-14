@@ -8,6 +8,8 @@ Keywords: R Language, Big Data, Data Analysis, RFM Analysis, Machine Learning, C
 
 RFM Analysis is a widely used strategy in the field of marketing and sales, which seeks to understand customer behavior and identify groups based on the recency of the last purchase, the frequency of purchases and the monetary amount spent. This segmentation allows the company to develop personalized strategies for each group, offering special offers, product recommendations and targeted actions. With the help of Machine Learning, we can further improve this segmentation, identifying complex patterns in the data and refining the accuracy of the analyses. This results in a greater understanding of customers and a shopping experience that is better suited to their needs, contributing to the success of the Marketing and Sales teams.
 
+![Screenshot 2023-06-14 at 16 55 19](https://github.com/lucashomuniz/Project-2/assets/123151332/1ef834f8-2865-47ac-b50d-303ec6792b1e)
+
 RFM analysis is based on three key metrics: recency, frequency, and monetary value. Recency measures how long ago a customer made their last purchase, identifying their recent engagement or inactivity. Frequency allows you to understand how often a customer makes purchases, indicating their level of engagement and value to the business. Monetary value evaluates the total customer spend on their purchases, helping to identify customers who generate the most revenue.
 
 Based on these metrics, customers can be segmented into different groups such as "recently active" or "long inactive". This segmentation allows you to customize marketing and sales strategies to meet the needs of each group.

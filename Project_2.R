@@ -171,5 +171,5 @@ View(as.data.frame(tabela_rfm))
 
 # With this it is possible to deliver this graph and table to the marketing department
 # so that it is now possible to identify five groups of customers by similarity.
-# It is possible to filter customers from each filter, for example, customers from group five
-# Do you have a higher or lower resentment than the clients in group four?
+# It is possible to filter customers from each filter.
+# For example, customers from group five, have a higher or lower resentment than the clients in group four?

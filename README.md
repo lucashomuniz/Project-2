@@ -14,6 +14,8 @@ RFM analysis is based on three key metrics: recency, frequency, and monetary val
 
 Based on these metrics, customers can be segmented into different groups such as "recently active" or "long inactive". This segmentation allows you to customize marketing and sales strategies to meet the needs of each group.
 
+# ✅ CONCLUSION
+
 By segmenting customers, the marketing or sales team can take specific approaches for each group, such as sending special offers or product recommendations to the most engaged customers and developing strategies to reactivate inactive customers. This personalization of the shopping experience tends to improve the relationship with the company, increase satisfaction and boost sales.
 
 The application of Machine Learning techniques in this process makes it possible to improve customer segmentation, identifying more complex patterns and relationships between attributes. Machine learning algorithms can help identify additional segments or improve segmentation accuracy based on available data.

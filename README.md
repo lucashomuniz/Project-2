@@ -4,7 +4,7 @@ This project aims to use Machine Learning techniques to improve customer segment
 
 Keywords: R Language, Big Data, Data Analysis, RFM Analysis, Machine Learning, Customer Segmentation, Grouping, Marketing.
 
-# PROCESS
+# ✅ PROCESS
 
 RFM Analysis is a widely used strategy in the field of marketing and sales, which seeks to understand customer behavior and identify groups based on the recency of the last purchase, the frequency of purchases and the monetary amount spent. This segmentation allows the company to develop personalized strategies for each group, offering special offers, product recommendations and targeted actions. With the help of Machine Learning, we can further improve this segmentation, identifying complex patterns in the data and refining the accuracy of the analyses. This results in a greater understanding of customers and a shopping experience that is better suited to their needs, contributing to the success of the Marketing and Sales teams.
 
@@ -20,6 +20,6 @@ The application of Machine Learning techniques in this process makes it possible
 
 In summary, the objective of this project is to use RFM Analysis and Machine Learning techniques to segment and group customers based on their similarity, in order to personalize the shopping experience and improve marketing and sales strategies. By better understanding customer behavior, you can optimize business performance, drive sales, and build longer-lasting customer relationships. As a result it is possible to deliver a graph and table to the marketing department. Now it is possible to identify five groups of customers by similarity.
 
-# DATA SOURCERS
+# ✅ DATA SOURCERS
 
 We used real data extracted from the link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
